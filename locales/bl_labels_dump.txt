@@ -1,0 +1,483 @@
+(Deprecated) Map Data
+Add Armature Modifier
+Add Bone Constraint
+Add Extension
+Add External Skeleton
+Add Grass Modifier To Active Object
+Add Missing Color Attributes
+Add Missing UV Maps
+Add Name Tables
+Add Object(s) as Entity
+Add Rotation Flags
+Add Scale Flags
+Add Shared Assets Directory
+Add Shared Textures Directory
+Add Textures from DDS
+Add Translation Flags
+Add UV Transformation
+Add a new Animation Link
+Add a new Property
+Add a new Property Attribute
+Add a new Tag
+Add a new Tag Attribute
+Animation Tracks
+Animations
+Apply Archetype Preset
+Apply Bone Physics Preset
+Apply Car Generator Preset
+Apply Collision Material
+Apply Entity Preset
+Apply Flag Preset
+Apply Grass Batch Preset
+Apply Grass Template Preset
+Apply Light Preset
+Apply NLA
+Apply Portal Preset
+Apply Room Preset
+Apply Shader Preset
+Apply Timecycle Modifier Preset
+Archetype
+Archetype Definition
+Archetype Definitions
+Archetype Extension Widget
+Archetype Presets
+Archetype Properties
+Archetypes
+Archetypes Specials
+Asset Library
+Auto Convert All Materials
+Auto Convert Current Material
+Auto LOD
+Auto-Assign Unassigned Items
+Auto-Create From Selected
+Bake Grass Color and AO On Active Object
+Bake LOD Lights
+Bake Materials
+Block
+Bone Physics Presets
+Bone Tools
+Bound Properties
+Build Asset Library
+Cable Tools
+Calculate Center Offset location
+Calculate Collision Mass
+Calculate Extents
+Calculate Number of Exit Portals
+Capsule Light Scale
+Car Generator Presets
+Car Generators
+Change Shader
+Change portal direction
+Character Cloth
+Choose Game Installation
+Clear
+Clear Collision Flags
+Clear Selection
+Clear and Create Collision Material
+Cloth
+Cloth Tools
+Collapse to Auto
+Collision Flags
+Collision Material Presets
+Collision Material Properties
+Collisions
+Composite Flags
+Convert Active Material To Selected
+Convert All Materials To Selected
+Convert Material To Selected Sollumz Shader
+Convert Non-Collision Materials To Selected
+Convert To Selected
+Convert to Composite
+Convert to Drawable
+Convert to Drawable Model
+Convert to Manual
+Copy Bone Physics
+Copy LOD
+Create Archetype
+Create BVH Child
+Create Bound
+Create Bounds
+Create Box Occluder
+Create Box from Selection
+Create Car Generator
+Create Car Generator Object
+Create Collision Material
+Create Drawable
+Create Drawable Dictionary
+Create Drawable Objects
+Create Entity
+Create Entity Set
+Create Fragment
+Create Fragment Objects
+Create Grass Instances Mesh
+Create Light
+Create Lights
+Create Limbo Room
+Create MLO Instance
+Create Map Car Generator
+Create Map Data
+Create Map Entity
+Create Map Grass Batch
+Create Map Grass Template
+Create Map Group
+Create Map LOD Lights
+Create Map Occluder
+Create Map Timecycle Modifier
+Create Model Occluder
+Create Physics Bones at Object(s)
+Create Portal
+Create Portal From Verts
+Create Room
+Create Shader Material
+Create Source
+Create Sprite Sheet UV Animation
+Create Texture
+Create Texture Dictionary
+Create Timecycle Modifier
+Create YTYP
+Create animation
+Create clip
+Create clip dictionary template
+Debug - Rebuild Asset Cache
+Decrease Shared Texture Directory Priority
+Delete Animation Link
+Delete Archetype
+Delete Archetype Preset
+Delete Bone Physics Preset
+Delete Car Generator Preset
+Delete Collision Material
+Delete Entity
+Delete Entity Preset
+Delete Entity Set
+Delete Extension
+Delete Flag Preset
+Delete Grass Batch Preset
+Delete Grass Template Preset
+Delete Light Preset
+Delete Map Car Generator
+Delete Map Data
+Delete Map Entity
+Delete Map Grass Batch
+Delete Map Grass Template
+Delete Map Group
+Delete Map LOD Lights
+Delete Map Occluder
+Delete Map Timecycle Modifier
+Delete Portal
+Delete Portal Preset
+Delete Property
+Delete Property Attribute
+Delete Room
+Delete Room Preset
+Delete Shader Preset
+Delete Source
+Delete Tag
+Delete Tag Attribute
+Delete Texture
+Delete Texture Dictionary
+Delete Timecycle Modifier
+Delete Timecycle Modifier Preset
+Delete YTYP
+DetectCtrlPressed
+Diagnostics
+Display
+Down
+Drawable
+Drawable Dictionary
+Drawable Properties
+Drawables
+Duplicate Extension
+Edit Archetype Extensions
+Edit Light Culling Planes
+Enter Multi-Object Vertex Paint
+Entities
+Entities Specials
+Entity
+Entity Definition
+Entity Extensions
+Entity Flags
+Entity Presets
+Entity Sets
+Entity Sets Specials
+Exit Multi-Object Vertex Paint
+Export Path
+Export RAGE Assets
+Export YMAP
+Export YTD
+Export YTYP
+Extension Offset Light Shaft End Point
+Extension Rotate
+Extension Rotate Ladder
+Extension Scale Light Shaft Frame
+Extension Select
+Extension Translate
+Extension Translate Ladder Bottom
+Extensions
+External Skeleton Paths Specials
+Extract LODs
+File handler for RAGE assets import
+Find Missing Textures using TXDs
+Flag Presets
+Flags
+Flip Culling Plane
+Fragment
+Fragment (Vehicle Paint)
+Fragment Physics
+Fragments
+General
+Generate LODs
+Generate Partitions
+Generate Wheel Instances
+Generate Ymap Extents
+Go To Entity
+Gradient
+Grass Batch Presets
+Grass Batches
+Grass Template Presets
+Hidden
+Hide Collisions
+Hide Entities
+Hide Shattermaps
+Highlight Entities
+Import RAGE Assets
+Import YMAP
+Import YMAP from Directory
+Import YTD
+Import YTYP
+Include
+Increase Shared Texture Directory Priority
+Instance Entities
+Invert Selected Archetypes
+Invert Selected Entities
+Invert Selected Entity Sets
+Invert Selected Images
+Invert Selected Map Car Generators
+Invert Selected Map Container
+Invert Selected Map Entities
+Invert Selected Map Grass Batches
+Invert Selected Map Grass templates
+Invert Selected Map Groups
+Invert Selected Map LOD Lights
+Invert Selected Map Occluders
+Invert Selected Map Timecycle Modifiers
+Invert Selected Portals
+Invert Selected Rooms
+Invert Selected Sources
+Invert Selected Texture Dictionaries
+Invert Selected Textures
+Invert Selected Timecycle Modifiers
+Isolate Channel
+Isolate Channels
+LOD Lights
+LOD Overlay Interact
+LOD Properties
+LOD Tools
+Light Culling Plane Rotate
+Light Culling Plane Translate
+Light Presets
+Light Tools
+Light Widgets
+Linked Animations
+MLO
+MLO Flags
+MLO Portal
+MLO Room
+MLO Timecycle Modifier
+Map Car Generators Specials
+Map Cargen Properties
+Map Containers Specials
+Map Entities Specials
+Map Entity Properties
+Map Grass Batches Specials
+Map Grass Templates Specials
+Map Group Specials
+Map LOD Hierarchy
+Map LOD Lights Specials
+Map Occluders Specials
+Map Timecycle Modifiers Specials
+Map Widgets
+Maps
+Material Merge
+Missing Dependencies
+Move To Bottom
+Move To Top
+Move UV transformation
+Move to New Collection
+Multi-Object Vertex Paint
+Object Location & Rotation Tools
+Occluders
+Order Shaders
+Paint
+Paint Terrain Alpha
+Paint Terrain Texture
+Palette Color Picker
+Palette Picker
+Parameter
+Paste Rotation
+Physics
+Physics LOD Properties
+Pin Cloth Vertices
+Portal Flags
+Portal Presets
+Portals
+Portals Specials
+Presets
+Preview Vehicle Windows
+Properties
+Randomize Cable Phase Offset
+Recalculate UV Clip Hash
+Refresh Cloth Diagnostics
+Refresh MLO Instances
+Refresh Sources
+Remove Bone Flags
+Remove Container
+Remove External Skeleton Path
+Remove Instances
+Remove Linked Object
+Remove Name Table Path
+Remove Shared Assets Directory
+Remove Shared Textures Directory
+Remove UV Transformation
+Remove all Embedded Textures
+Rename Color Attributes by Order
+Rename UV Maps by Order
+Reset Theme
+Room Flags
+Room Presets
+Rooms
+Rooms Specials
+Save Archetype Preset
+Save Bone Physics Preset
+Save Car Generator Preset
+Save Collision Material
+Save Entity Preset
+Save Flag Preset
+Save Grass Batch Preset
+Save Grass Template Preset
+Save Light Preset
+Save Portal Preset
+Save Room Preset
+Save Shader Preset
+Save Timecycle Modifier Preset
+Search
+Select
+Select All
+Select All Archetypes
+Select All Car Generator Objects
+Select All Entities
+Select All Entity Sets
+Select All Images
+Select All Map Car Generators
+Select All Map Containers
+Select All Map Entities
+Select All Map Grass Batches
+Select All Map Grass templates
+Select All Map Groups
+Select All Map LOD Lights
+Select All Map Occluders
+Select All Map Timecycle Modifiers
+Select All Portals
+Select All Rooms
+Select All Sources
+Select All Texture Dictionaries
+Select All Textures
+Select All Timecycle Modifiers
+Select Archetype
+Select Entity
+Select Entity Set
+Select Image
+Select Light ID
+Select Map Car Generator
+Select Map Container
+Select Map Entity
+Select Map Grass Batch
+Select Map Grass template
+Select Map Group
+Select Map LOD Lights
+Select Map Occluder
+Select Map Timecycle Modifier
+Select Portal
+Select Room
+Select Source
+Select Texture
+Select Texture Dictionary
+Select Timecycle Modifiers
+Set Animations Target
+Set Bounds From Selection
+Set Cable Diffuse Factor
+Set Cable Material
+Set Cable Micromovements Scale
+Set Cable Phase Offset
+Set Cable Radius
+Set Cloth Force Transform
+Set Cloth Inflation Scale
+Set Cloth Pin Radius
+Set Cloth Pin Radius Gradient
+Set Cloth Vertex Weight
+Set Culling Plane Normal
+Set LOD Level
+Set Light ID
+Set Mass
+Set Object Transforms to Entity
+Set Sollum Type
+Set all Materials Embedded
+Set all Materials Unembedded
+Set all Textures Embedded
+Set correct space for bone parenting
+Shader
+Shader Presets
+Shader Tools
+Shape
+Show Collisions
+Show Entities
+Show Shattermaps
+Sollumz
+Sollumz - Drag Timeline Clip Tags
+Sollumz LODs
+Sollumz Object Visibility
+Sollumz Pie Menu
+Sollumz Vertex Painter
+Sollumz: Install Dependencies?
+Sources
+Tags
+Terrain Painter
+Texture Dictionaries
+Texture Dictionaries Specials
+Texture Parameters
+Texture Source Images Specials
+Texture Sources Specials
+Textures
+Textures Specials
+Time Flags
+Timecycle Modifier Presets
+Timecycle Modifiers
+Timecycle Modifiers Specials
+To Armature
+To Selected Bones
+Toggle Entity Set
+Transfer Channels
+Tuning
+Unlink Entity
+Unlock Incomplete LOD Hierarchy
+Up
+Update Bottom
+Update Corner A
+Update Corner B
+Update Corner C
+Update Corner D
+Update Grass Geometry Nodes
+Update Lightshaft Direction
+Update Location
+Update Portal From Verts
+Update Tinted Shader
+Use All Images
+Value Parameters
+Vehicle Render Preview
+Vehicle Tools
+Vehicle Window Shattermap
+Vertex Paint Gradient
+Vertex Painter
+View
+View in Sidebar
+Wind Feedback
+YTYPS
